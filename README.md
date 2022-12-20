@@ -5,7 +5,7 @@
 This project uses Cleveland's heart disease data from the UCI Machine Learning Repository. The dataset and its attribute information can be found at: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 
-**Project goals:**
+**Project Objectives:**
 
 (1) Detect heart disease presence by training and evaluating boosting algorithms XGBoost, LightGBM, and Catboost
 
